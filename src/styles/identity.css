@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600&display=swap');
+
+/* The changing discipline acts as the portfolio's display signature. */
+.hero-word {
+  font-family: "Syne", "DM Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.1em;
+}
