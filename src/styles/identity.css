@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 
-/* The changing discipline acts as the portfolio's display signature. */
+/* Solid, closed letterforms keep the outlined discipline clean at any scale. */
 .hero-word {
-  font-family: "Syne", "DM Sans", sans-serif;
-  font-weight: 500;
-  letter-spacing: -0.1em;
+  font-family: "Archivo Black", "Arial Black", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.075em;
+  line-height: 0.9;
 }
